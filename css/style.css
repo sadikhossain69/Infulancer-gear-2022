@@ -3,7 +3,7 @@
 }
 
 /*----------------------
-     header section
+     header section start
 -----------------------*/
 header{
     display: flex;
@@ -32,3 +32,40 @@ ul li a{
 .icons{
     cursor: pointer;
 }
+    /*----------------------
+        header section start
+    -----------------------*/
+
+
+
+    /*------------------- 
+    Influence start
+    ---------------------*/
+
+.Influencer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 5%;
+}
+
+.left-influencer h1{
+    font-size: 4em;
+    margin-top: 10px;
+}
+
+.left-influencer p{
+    margin-bottom: 30px;
+}
+
+.left-influencer a{
+    text-decoration: none;
+    background-color: #E02C6D;
+    color: white;
+    padding: 10px 24px;
+    border-radius: 41px;
+}
+
+    /*------------------- 
+    Influence end
+    ---------------------*/
